@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/86150/CLionProjects/binaryTree/QUEUE.h
+
+C:/Users/86150/CLionProjects/binaryTree/STACK.h
+
+C:/Users/86150/CLionProjects/binaryTree/binaryTree.h
+iostream
+-
+
+C:/Users/86150/CLionProjects/binaryTree/main.cpp
+iostream
+-
+QUEUE.h
+C:/Users/86150/CLionProjects/binaryTree/QUEUE.h
+STACK.h
+C:/Users/86150/CLionProjects/binaryTree/STACK.h
+binaryTree.h
+C:/Users/86150/CLionProjects/binaryTree/binaryTree.h
+

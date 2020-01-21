@@ -1,0 +1,3 @@
+C:/Users/86150/CLionProjects/segTreeCCC/cmake-build-debug/CMakeFiles/segTreeCCC.dir
+C:/Users/86150/CLionProjects/segTreeCCC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/86150/CLionProjects/segTreeCCC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
